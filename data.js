@@ -1,5 +1,5 @@
 export const home = {
-    domain: 'jayhawk.github.io',
+    domain: 'bamboos.vercel.app',
     name: 'Bamboo (Ayush)',
     subtitle: 'A Student learning progeramming from India.',
     email: 'bhaleraoayush06@gmail.com',
