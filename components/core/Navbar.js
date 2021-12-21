@@ -31,7 +31,7 @@ export default function Navbar() {
         </li>
       </ul>
       <a
-        href="https://github.com/jayhawk24/jayhawk24.github.io/"
+        href="https://github.com/Ayush32173"
         className="github-corner"
         aria-label="View source on GitHub"
       >
