@@ -11,7 +11,7 @@ export const home = {
 export const socials = {
     // Only usernames.
     twitter: 'BambooFarms',
-    github: 'Ayushbhalerao',
+    github: 'Ayush32173',
     instagram: 'Not on insta sadge'
 };
 
@@ -60,7 +60,7 @@ export const projects = [
         title: 'Melon Client',
         imgSrc: 'assets/donation.jpg',
         desc: 'A minecraft clients API to make multithreading easier...',
-        link: 'melonclient.glitch.me'
+        link: 'https://melonclient.glitch.me'
     },
     {
         title: 'Pandroid Minecraft client',
