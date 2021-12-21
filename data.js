@@ -1,5 +1,5 @@
 export const home = {
-    domain: 'bamboos.vercel.app',
+    domain: 'ayushb.vercel.app',
     name: 'Bamboo (Ayush)',
     subtitle: 'A Student learning progeramming from India.',
     email: 'bhaleraoayush06@gmail.com',
