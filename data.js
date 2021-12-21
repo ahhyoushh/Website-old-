@@ -45,7 +45,7 @@ export const about = {
 
 export const projects = [
     {
-        title: 'V80 Stocks',
+        title: 'Discord BOT',
         imgSrc: 'assets/v80.jpg',
         desc: "A bot i made as my first projects by skiding xD(wasn't a good idea')...",
         link: 'https://discord.com/api/oauth2/authorize?client_id=909324090421174332&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D909324'
